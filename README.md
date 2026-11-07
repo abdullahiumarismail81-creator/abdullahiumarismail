@@ -30,6 +30,6 @@ Solar PV Maintenance & Troubleshooting
 Contact
 📧 Email: abdullahiumarismail81@gmail.com
 
-🔗 LinkedIn: Add your LinkedIn Profile Link
+🔗 LinkedIn: 
 
 🐱 GitHub: github.com/abdullahiumarismail81-creator
